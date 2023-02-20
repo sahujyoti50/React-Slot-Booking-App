@@ -1,6 +1,6 @@
 Preview:
 
-![image](https://user-images.githubusercontent.com/15225177/220074352-5875e691-42e6-4448-a2f9-d2f0da5916d5.png)
+![image](https://user-images.githubusercontent.com/15225177/220074807-2cdb1203-fa94-4bd7-b233-a8b36424823d.png)
 
 ******************************************************************************
 # Getting Started with Create React App
